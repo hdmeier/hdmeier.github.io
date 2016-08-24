@@ -1,0 +1,148 @@
+@import url(https://fonts.googleapis.com/css?family=Play:400,700); @import url(https://fonts.googleapis.com/css?family=Quicksand); @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+
+#wrapper {
+	width: 1080px;
+}
+
+body {
+	text-align: center;
+	background: url("http://sophiasheart.org/wp-content/uploads/2015/09/ill-be-there-1-of-1.jpg");
+	background-size: 100%;
+}
+
+header {
+	/*background-color: #FFED74;
+	border: 1px black solid;*/
+	padding: 20px;
+}
+
+h1 {
+	font-family: "Courier New", serif;
+	font-size: 80px;
+	font-weight: 500;
+	color: #4e75a0;
+	margin: 100px 0 50px 0;
+	text-align: center;
+	padding: 20px;
+}
+
+#social_media {
+	text-decoration: none;
+	text-transform: lowercase;
+	font-family: 'Quicksand', sans-serif;
+	letter-spacing: .5px;
+	font-size: 14px;
+	font-weight: 700;
+	color: #1e2e40;
+	margin: auto 30px;
+	display: inline;
+	text-align: right;
+	float: right;
+}
+
+#social_media a{
+	margin: auto 10px;
+}
+	
+#main_nav {
+	/*background-color: #E8C66A;
+	border: 1px black solid;*/
+	padding: 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+	letter-spacing: 1.5px;
+	font-size: 16px;
+	font-weight: 700;
+	color: #1e2e40;
+	margin: 5px;
+}
+
+#main_nav a{
+	margin: auto 30px;
+}
+
+#two-column {
+	/*background-color: #FFB7CF;
+	border: 1px black solid;*/
+	padding: 20px;
+}
+
+#sidebar_nav{
+	/*background-color: #E582A2;
+	border: 1px black solid;*/
+	padding: 20px;
+	float: left;
+	width: 15%;
+	font-family: 'Quicksand', sans-serif;
+	letter-spacing: .5px;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+#sidebar_nav a{
+	display: block;
+	line-height: 1.7em;
+}
+
+a:hover {
+	font-style: italic;
+}
+
+div {
+	/*background-color: #FFE2B8;
+	border: 1px black solid;*/
+	padding: 20px;
+	margin: auto;
+	margin-top: 5px;
+	/*font-family: "ProximaNova", sans-serif;*/
+	/*font-family: 'Playfair Display', serif;*/
+	font-family: 'Lora', serif;
+	line-height: 1.5em;
+	font-size: 14px;
+	color: #1e2e40;
+}
+
+#article{
+	/*width: 70%;*/
+	/*background-color: #E55B88;
+	border: 1px black solid;*/
+	padding: 20px;
+	float: right;
+	width: 70%;
+	text-align: left;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	/*background-color: #FF957E;
+	border: 1px black solid;*/
+	padding: 20px;
+	margin-top: 5px;
+	font-family: 'Quicksand', sans-serif;
+	letter-spacing: .1em;
+	font-size: 14px;
+	font-weight: 700;
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+
+
+
+
+
